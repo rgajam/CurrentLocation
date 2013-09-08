@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Am I</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_location">Current Location</string>
+    <string name="about_message">This app is designed and developed by Rishikesh Gajam</string>
+
+</resources>
